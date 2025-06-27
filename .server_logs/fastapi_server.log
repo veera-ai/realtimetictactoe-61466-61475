@@ -24,3 +24,18 @@ INFO:     10.1.8.62:46736 - "GET /openapi.json HTTP/1.1" 200 OK
 INFO:     10.1.8.62:46738 - "GET /openapi.json HTTP/1.1" 200 OK
 INFO:     10.1.8.62:44314 - "HEAD /docs HTTP/1.1" 200 OK
 INFO:     10.1.8.62:44316 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40366 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40382 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40392 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40408 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40410 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40418 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.1.8.62:34352 - "OPTIONS /games HTTP/1.1" 200 OK
+INFO:     10.1.8.62:34366 - "POST /games HTTP/1.1" 200 OK
+INFO:     ('10.1.8.62', 34372) - "WebSocket /ws/games/undefined?player=undefined" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
+INFO:     10.1.8.62:59482 - "POST /games HTTP/1.1" 200 OK
+INFO:     ('10.1.8.62', 59492) - "WebSocket /ws/games/undefined?player=undefined" 403
+INFO:     connection rejected (403 Forbidden)
+INFO:     connection closed
