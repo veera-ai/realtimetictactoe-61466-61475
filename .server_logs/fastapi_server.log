@@ -22,3 +22,5 @@ INFO:     10.1.8.62:46728 - "GET /docs HTTP/1.1" 200 OK
 INFO:     10.1.8.62:46730 - "GET /docs HTTP/1.1" 200 OK
 INFO:     10.1.8.62:46736 - "GET /openapi.json HTTP/1.1" 200 OK
 INFO:     10.1.8.62:46738 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.1.8.62:44314 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:44316 - "HEAD /docs HTTP/1.1" 200 OK
